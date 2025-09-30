@@ -1,11 +1,11 @@
-date,mood,sleep_hours,weather,notes
-2025-09-21,4,7.5,sunny,Felt productive after lunch
-2025-09-22,3,6.2,cloudy,Mild headache in afternoon
-2025-09-23,5,8.0,sunny,Great walk with the dogs
-2025-09-24,2,5.6,rainy,Tired from late night
-2025-09-25,3,7.1,cloudy,Busy work day
-2025-09-26,4,7.8,sunny,Good focus blocks
-2025-09-27,2,6.0,extreme hot,Overheated outside
-2025-09-28,5,8.4,sunny,Excellent mood all day
-2025-09-29,3,6.7,rainy,Low energy in morning
-2025-09-30,4,7.3,cloudy,Evening boost after nap
+date,mood,sleep_hours,weather,note
+2025-09-21,Happy,7.5,Sunny,Felt productive after lunch
+2025-09-22,Stressed,6.2,Cloudy,Mild headache in afternoon
+2025-09-23,Calm,8.0,Sunny,Great walk with the dogs
+2025-09-24,Tired,5.6,Rainy,Tired from late night
+2025-09-25,Calm,7.1,Cloudy,Busy work day
+2025-09-26,Happy,7.8,Sunny,Good focus blocks
+2025-09-27,Sad,6.0,Extreme Hot,Overheated outside
+2025-09-28,Excited,8.4,Sunny,Excellent mood all day
+2025-09-29,Tired,6.7,Rainy,Low energy in morning
+2025-09-30,Happy,7.3,Cloudy,Evening boost after nap
