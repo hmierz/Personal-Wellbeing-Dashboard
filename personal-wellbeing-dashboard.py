@@ -226,6 +226,9 @@ class App(tk.Tk):
             ax1.set_ylabel("Mood Score (1–5)")
             ax1.set_xlabel("Date")
             ax1.grid(True, alpha=0.3)
+            # format x-axis dates so they don't overlap
+            fig1.autofmt_xdate(rotation=45)
+            ax1.xaxis.set_major_formatter(matplotlib.dates.DateFormatter('%b %d'))
         else:
             ax1.text(0.5, 0.5, "No dated entries", ha="center", va="center")
 
@@ -253,4 +256,5 @@ class App(tk.Tk):
 # ---------------------- Run ----------------------
 if __name__ == "__main__":
     app = App()
+
     app.mainloop()
